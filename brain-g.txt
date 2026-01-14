@@ -1,0 +1,3 @@
+https://github.com/MrVegasMan/brain-g/blob/435b20c9ec7d200f7a5e7f68f8972724ae7ce87b/src/assets/images/wojak.svg
+
+https://github.com/MrVegasMan/brain-g/blob/435b20c9ec7d200f7a5e7f68f8972724ae7ce87b/src/assets/images/cover.svg
