@@ -1,0 +1,3 @@
+https://github.com/joshuaism/face-mask/blob/master/src/assets/images/wojak-no.svg
+
+https://github.com/joshuaism/face-mask/blob/master/src/assets/images/doomer.svg
