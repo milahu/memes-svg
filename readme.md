@@ -1,5 +1,8 @@
 # memes-svg
 
+## Grok-X-Profile-Roaster/wojak.svg
+[![](Grok-X-Profile-Roaster/wojak.svg)](Grok-X-Profile-Roaster/wojak.svg)
+
 ## Lolz-Smiles/AmZxc.svg
 [![](Lolz-Smiles/AmZxc.svg)](Lolz-Smiles/AmZxc.svg)
 
@@ -156,6 +159,18 @@
 ## Lolz-Smiles/solevoi.svg
 [![](Lolz-Smiles/solevoi.svg)](Lolz-Smiles/solevoi.svg)
 
+## brain-g/cover.svg
+[![](brain-g/cover.svg)](brain-g/cover.svg)
+
+## brain-g/wojak.svg
+[![](brain-g/wojak.svg)](brain-g/wojak.svg)
+
+## face-mask/doomer.svg
+[![](face-mask/doomer.svg)](face-mask/doomer.svg)
+
+## face-mask/wojak-no.svg
+[![](face-mask/wojak-no.svg)](face-mask/wojak-no.svg)
+
 ## milahu-alchi/animal-traps.why-would-a-fly-ever-land-on-something-that-looks-like-that.square.en.svg
 [![](milahu-alchi/animal-traps.why-would-a-fly-ever-land-on-something-that-looks-like-that.square.en.svg)](milahu-alchi/animal-traps.why-would-a-fly-ever-land-on-something-that-looks-like-that.square.en.svg)
 
@@ -179,6 +194,12 @@
 
 ## milahu-alchi/white-collar-crime.bank.this-is-a-robbery.amateur.steve-kelley-2010.en.svg
 [![](milahu-alchi/white-collar-crime.bank.this-is-a-robbery.amateur.steve-kelley-2010.en.svg)](milahu-alchi/white-collar-crime.bank.this-is-a-robbery.amateur.steve-kelley-2010.en.svg)
+
+## south-park/towelie.this-is-a-really-good-idea.blackwhite.svg
+[![](south-park/towelie.this-is-a-really-good-idea.blackwhite.svg)](south-park/towelie.this-is-a-really-good-idea.blackwhite.svg)
+
+## south-park/towelie.this-is-a-really-good-idea.svg
+[![](south-park/towelie.this-is-a-really-good-idea.svg)](south-park/towelie.this-is-a-really-good-idea.svg)
 
 ## wojak.svg
 [![](wojak.svg)](wojak.svg)
