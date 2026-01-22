@@ -204,3 +204,9 @@
 ## wojak.svg
 [![](wojak.svg)](wojak.svg)
 
+## wojak/covid-meme-npc-versus-chad-why-arent-they-dead-yet.blackwhite.svg
+[![](wojak/covid-meme-npc-versus-chad-why-arent-they-dead-yet.blackwhite.svg)](wojak/covid-meme-npc-versus-chad-why-arent-they-dead-yet.blackwhite.svg)
+
+## wojak/covid-meme-npc-versus-chad-why-arent-they-dead-yet.svg
+[![](wojak/covid-meme-npc-versus-chad-why-arent-they-dead-yet.svg)](wojak/covid-meme-npc-versus-chad-why-arent-they-dead-yet.svg)
+
